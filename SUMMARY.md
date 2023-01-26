@@ -1,9 +1,11 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Authors](authors.md)
-* [Getting Started](getting-started/README.md)
-  * [ALM Self-Assessment Checklist](getting-started/alm-self-assessment-checklist.md)
+* [Cheat Sheet](cheat-sheet.md)
+
+## Fundamentals
+
+* [Solutions](fundamentals/solutions.md)
 
 ## Development
 
