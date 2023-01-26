@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Getting Started](README.md)
+* [Overview](README.md)
+* [Getting Started](getting-started/README.md)
   * [ALM Self-Assessment Checklist](getting-started/alm-self-assessment-checklist.md)
 
 ## Development
