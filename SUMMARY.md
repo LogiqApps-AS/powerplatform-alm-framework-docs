@@ -11,3 +11,5 @@
   * [Multiple Development Environments](development/environments/multiple-development-environments.md)
 * [Development Strategy](development/development-strategy.md)
 * [Glossary](development/glossary.md)
+* [Conventions](development/conventions/README.md)
+  * [Canvas App](development/conventions/canvas-app.md)
