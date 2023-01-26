@@ -10,3 +10,4 @@
   * [Single Development Environment](development/environments/single-development-environment.md)
   * [Multiple Development Environments](development/environments/multiple-development-environments.md)
 * [Development Strategy](development/development-strategy.md)
+* [Glossary](development/glossary.md)
