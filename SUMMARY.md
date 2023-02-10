@@ -6,7 +6,7 @@
 ## Fundamentals
 
 * [Solutions](fundamentals/solutions.md)
-* [Solution publisher](fundamentals/solution-publisher.md)
+* [Solution Publisher](fundamentals/solution-publisher.md)
 
 ## Development
 
