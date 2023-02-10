@@ -6,6 +6,7 @@
 ## Fundamentals
 
 * [Solutions](fundamentals/solutions.md)
+* [Solution publisher](fundamentals/solution-publisher.md)
 
 ## Development
 
@@ -14,6 +15,7 @@
   * [Single Development Environment](development/environments/single-development-environment.md)
   * [Multiple Development Environments](development/environments/multiple-development-environments.md)
 * [Conventions](development/conventions/README.md)
+  * [Dataverse](development/conventions/dataverse.md)
   * [Canvas App](development/conventions/canvas-app.md)
 * [Git Structure](development/git-structure.md)
 * [Glossary](development/glossary.md)
