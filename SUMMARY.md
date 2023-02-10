@@ -5,8 +5,8 @@
 
 ## Fundamentals
 
-* [Solutions](fundamentals/solutions.md)
-* [Solution Publisher](fundamentals/solution-publisher.md)
+* [Solutions](fundamentals/solutions/README.md)
+  * [Solution Publisher](fundamentals/solutions/solution-publisher.md)
 
 ## Development
 
