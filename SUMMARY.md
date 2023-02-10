@@ -7,6 +7,7 @@
 
 * [Solutions](fundamentals/solutions.md)
   * [Solution Publisher](fundamentals/solution-publisher.md)
+* [Project](fundamentals/project.md)
 
 ## Development
 
@@ -18,7 +19,6 @@
   * [Dataverse](development/conventions/dataverse.md)
   * [Canvas App](development/conventions/canvas-app.md)
 * [Git Structure](development/git-structure.md)
-* [Project](development/project.md)
 * [Glossary](development/glossary.md)
 
 ## Deployment
