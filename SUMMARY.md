@@ -11,7 +11,8 @@
 
 ## Development
 
-* [Development Strategy](development/development-strategy.md)
+* [Development Strategy](development/development-strategy/README.md)
+  * [Branching Strategy](development/development-strategy/branching-strategy.md)
 * [Environments](development/environments/README.md)
   * [Single Development Environment](development/environments/single-development-environment.md)
   * [Multiple Development Environments](development/environments/multiple-development-environments.md)
