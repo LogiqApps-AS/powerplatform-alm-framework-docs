@@ -7,7 +7,8 @@
 
 * [Solutions](fundamentals/solutions.md)
   * [Solution Publisher](fundamentals/solution-publisher.md)
-* [Project](fundamentals/project.md)
+* [Architecture Overview](fundamentals/architecture-overview.md)
+* [Feature-Driven Development](fundamentals/feature-driven-development.md)
 
 ## Development
 
@@ -25,3 +26,11 @@
 ## Deployment
 
 * [Page 1](deployment/page-1.md)
+
+## Testing
+
+* [Page 2](testing/page-2.md)
+
+## Security
+
+* [Page 3](security/page-3.md)
