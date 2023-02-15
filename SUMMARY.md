@@ -7,20 +7,21 @@
 
 * [Solutions](fundamentals/solutions.md)
   * [Solution Publisher](fundamentals/solution-publisher.md)
+* [Conventions](fundamentals/conventions/README.md)
+  * [Dataverse](fundamentals/conventions/dataverse.md)
+  * [Canvas App](fundamentals/conventions/canvas-app.md)
 * [Architecture Overview](fundamentals/architecture-overview.md)
 * [Feature-Driven Development](fundamentals/feature-driven-development.md)
 
 ## Development
 
-* [Development Strategy](development/development-strategy/README.md)
-  * [Branching Strategy](development/development-strategy/branching-strategy.md)
+* [Development Strategy](development/development-strategy.md)
 * [Environments](development/environments/README.md)
   * [Single Development Environment](development/environments/single-development-environment.md)
   * [Multiple Development Environments](development/environments/multiple-development-environments.md)
-* [Conventions](development/conventions/README.md)
-  * [Dataverse](development/conventions/dataverse.md)
-  * [Canvas App](development/conventions/canvas-app.md)
-* [Git Structure](development/git-structure.md)
+* [Version Control](development/version-control/README.md)
+  * [Git Structure](development/version-control/git-structure.md)
+  * [Branching Strategy](development/version-control/branching-strategy.md)
 * [Glossary](development/glossary.md)
 
 ## Deployment
