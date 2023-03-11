@@ -10,13 +10,13 @@
 
 The general branching process is based on the [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) documentation. This process is sufficient and necessary for efficient collaboration in a Middle/Large project.
 
-1. The `master/main` branch is the primary branch where code is branched from and merged to.
+1. The `main` branch is the primary branch where code is branched from and merged to.
 2. Developers work on their local machines and within their development branches.
 3. Development branches are created using naming conventions to ensure consistency and accuracy in the development process.
 4. Changes are committed locally and pushed to the remote Azure Repository.
 5. A Pull Request is created in Azure DevOps.
 6. The Pull Request is reviewed and approved.
-7. Code is merged into the `master/main` branch.
+7. Code is merged into the `main` branch.
 
 ### Pull Request Setup
 
@@ -29,9 +29,9 @@ The general branching process is based on the [GitHub flow](https://docs.github.
 * **Check for comment resolution**: Required
 * **Limit merge types**: ON
   * **Squash merge**: true
-* **Automatically included reviewers**: Add at least one required reviewer.
+* **Automatically included reviewers**: Add at least one required reviewer
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Master/main branch pilicies</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/branch_policy.PNG" alt=""><figcaption><p>Branch policies</p></figcaption></figure>
 
 ### Branch Naming Conventions
 
